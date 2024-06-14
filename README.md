@@ -1,2 +1,2 @@
 # Effat-Resources
-student resource hub
+student resource hub for Effat University students
